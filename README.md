@@ -1,1 +1,2 @@
-# kaggle_competition_practice
+### 알고리즘
+
